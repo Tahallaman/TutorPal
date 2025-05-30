@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Standard bottom padding for scrollable content in activities with bottom navigation bars -->
+    <dimen name="bottom_nav_scroll_padding">120dp</dimen>
+    
+    <!-- Extended bottom padding for activities with floating action buttons and bottom navigation -->
+    <dimen name="bottom_nav_fab_scroll_padding">160dp</dimen>
+      <!-- Maximum bottom padding for complex layouts with multiple overlapping elements -->
+    <dimen name="bottom_nav_max_scroll_padding">200dp</dimen>
+    
+    <!-- Extra large bottom padding for extremely complex layouts (CoordinatorLayout + CollapsingToolbar + NestedScrollView) -->
+    <dimen name="bottom_nav_extra_large_scroll_padding">280dp</dimen>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Primary Colors -->
+    <color name="primary">#8B7CF6</color>
+    <color name="primary_variant">#7C3AED</color>
+    <color name="secondary">#F472B6</color>
+    <color name="secondary_variant">#EC4899</color>
+    
+    <!-- Dark Theme Background Colors -->
+    <color name="background">#121212</color>
+    <color name="background_secondary">#1E1E1E</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="surface_variant">#2A2A2A</color>
+    
+    <!-- Dark Theme Text Colors -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#000000</color>
+    <color name="on_background">#E1E1E1</color>
+    <color name="on_surface">#E1E1E1</color>
+    <color name="text_primary">#E1E1E1</color>
+    <color name="text_secondary">#9CA3AF</color>
+    
+    <!-- Dark Theme Error Colors -->
+    <color name="error">#F87171</color>
+    <color name="on_error">#000000</color>
+    <color name="error_container">#7F1D1D</color>
+    <color name="on_error_container">#FEE2E2</color>
+    
+    <!-- Dark Theme Tertiary Colors -->
+    <color name="tertiary">#A78BFA</color>
+    <color name="on_tertiary">#000000</color>
+    
+    <!-- Dark Theme Status Colors -->
+    <color name="success">#34D399</color>
+    <color name="warning">#FBBF24</color>
+    <color name="info">#60A5FA</color>
+    
+    <!-- Dark Theme Neutral Colors -->
+    <color name="gray_50">#374151</color>
+    <color name="gray_100">#4B5563</color>
+    <color name="gray_200">#6B7280</color>
+    <color name="gray_300">#9CA3AF</color>
+    <color name="gray_400">#D1D5DB</color>
+    <color name="gray_500">#E5E7EB</color>
+    <color name="gray_600">#F3F4F6</color>
+    <color name="gray_700">#F9FAFB</color>
+    <color name="gray_800">#FFFFFF</color>
+    <color name="gray_900">#FFFFFF</color>
+    
+    <!-- Dark Theme Material Design 3 Colors -->
+    <color name="primary_container">#3730A3</color>
+    <color name="outline">#938F99</color>
+    <color name="outline_variant">#49454F</color>
+    
+    <!-- Dark Theme Favorite Color -->
+    <color name="favorite_color">#FBBF24</color>
+    
+    <!-- Dark Theme Rating Color -->
+    <color name="rating_color">#FBBF24</color>
+</resources>

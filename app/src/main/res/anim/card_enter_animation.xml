@@ -1,0 +1,12 @@
+<!-- Card Enter Animation -->
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <translate
+        android:fromYDelta="50dp"
+        android:toYDelta="0dp"
+        android:duration="400"
+        android:interpolator="@android:anim/decelerate_interpolator" />
+    <alpha
+        android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:duration="400" />
+</set>

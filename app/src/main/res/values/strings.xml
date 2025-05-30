@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">TutorPal</string>
+    <string name="tutor_image">Tutor Image</string>
+    <string name="message_status">Message Status</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="send_message">Send Message</string>
+    <string name="attach_file">Attach File</string>
+    <string name="video_call">Video Call</string>
+    <string name="search_tutors">Search Tutors</string>
+    <string name="filter_results">Filter Results</string>
+    <string name="book_session">Book Session</string>
+    <string name="chat_with_tutor">Chat with Tutor</string>
+    <string name="favorite">Favorite</string>
+    <string name="rating">Rating</string>
+    <string name="price_per_hour">Price per hour</string>
+    <string name="experience_years">Years of experience</string>
+    <string name="languages_spoken">Languages spoken</string>
+    <string name="availability">Availability</string>
+    <string name="book_now">Book Now</string>
+    <string name="chat_now">Chat Now</string>
+    <string name="select_date">Select Date</string>
+    <string name="select_time">Select Time</string>
+    <string name="session_duration">Session Duration</string>
+    <string name="session_type">Session Type</string>
+    <string name="online_session">Online Session</string>
+    <string name="in_person_session">In-Person Session</string>
+    <string name="address">Address</string>
+    <string name="additional_notes">Additional Notes</string>
+    <string name="pricing_summary">Pricing Summary</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="tax">Tax</string>
+    <string name="total">Total</string>    <string name="confirm_booking">Confirm Booking</string>
+    <string name="helpful_count">%d people found this helpful</string>
+    <string name="fab_chat_desc">Open Chat</string>
+    
+    <!-- Profile and Settings Strings -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="settings">Settings</string>
+    <string name="theme_settings">Theme Settings</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="system_theme">System Default</string>
+    <string name="profile_name">Full Name</string>
+    <string name="profile_email">Email Address</string>
+    <string name="profile_phone">Phone Number</string>
+    <string name="profile_bio">About Me</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="cancel">Cancel</string>
+</resources>
